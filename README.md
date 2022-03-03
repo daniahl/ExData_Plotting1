@@ -1,3 +1,10 @@
+# EDA project 1
+
+See R scripts which generate the corresponding PNG images.
+
+THe original README follows below.
+
+
 ## Introduction
 
 This assignment uses data from
